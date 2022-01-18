@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+s8_deployment/exercise_files/data/
+s8_deployment/exercise_files/deployable_model.pt
+s8_deployment/exercise_files/model_store/
+s7_scalable_applications/exercise_files/lfw-deepfunneled/
+
 # C extensions
 *.so
 
